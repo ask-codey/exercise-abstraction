@@ -33,3 +33,7 @@ Run the program with **Ctrl+F5**, and the tests with **Test > Run All Tests** (o
 - A `Dictionary<string, DateTime>` keyed by the vehicle's `Id` can remember when each ride started. `TryAdd` and `Remove` return whether they did anything.
 - To refuse, stop the method with `throw new InvalidOperationException("B1 is already on a ride.");`. Exceptions are covered properly in the next chapter.
 - `(end - start).TotalMinutes` is a `double`; `Math.Ceiling` rounds any part of a minute up.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
