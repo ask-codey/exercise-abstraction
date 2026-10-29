@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BikeShare/BikeShare.csproj" />
+  <Project Path="BikeShare.Tests/BikeShare.Tests.csproj" />
+</Solution>
