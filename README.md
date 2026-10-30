@@ -1,6 +1,6 @@
-# Practice: Abstraction
+# Exercise: Abstraction
 
-Practice code for the lesson **Practice: Abstraction** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Abstraction** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 A city bike share rents out three kinds of vehicle: bikes, e-bikes and scooters. Each kind has its own prices, and the electric ones have batteries. You'll finish the vehicles and the `RideService` that starts and ends rides.
 
